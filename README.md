@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Duke-psd
-Welcome to my Profile
-
-
 
 <!---
 Duke-psd/Duke-psd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
